@@ -2,5 +2,8 @@
   {
     "package": "ichimoku",
     "oncran": true
+  },
+  {
+    "package": "nanonext"
   }
 ]

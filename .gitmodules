@@ -1,10 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/shikokuchuo/universe
 	shallow = true
 	branch = HEAD
 [submodule "ichimoku"]
 	path = ichimoku
-	url = https://github.com/shikokuchuo/ichimoku
+	url = https://github.com/shikokuchuo/ichimoku/
+	shallow = true
+	registered = true
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/shikokuchuo/nanonext/
 	shallow = true
 	registered = true
