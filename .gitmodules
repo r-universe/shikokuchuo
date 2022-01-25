@@ -8,3 +8,8 @@
 	url = https://github.com/shikokuchuo/ichimoku
 	shallow = true
 	registered = true
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/shikokuchuo/nanonext
+	shallow = true
+	registered = true
