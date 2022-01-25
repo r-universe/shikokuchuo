@@ -5,6 +5,6 @@
   },
   {
     "package": "nanonext",
-    "oncran": false
+    "oncran": true
   }
 ]
