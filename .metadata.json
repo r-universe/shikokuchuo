@@ -1,14 +1,14 @@
 [
   {
+    "package": "nanonext",
+    "oncran": true
+  },
+  {
     "package": "ichimoku",
     "oncran": true
   },
   {
     "package": "mirai",
-    "oncran": true
-  },
-  {
-    "package": "nanonext",
     "oncran": true
   }
 ]

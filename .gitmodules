@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/shikokuchuo/nanonext
+	shallow = true
+	registered = true
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
@@ -11,10 +16,5 @@
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
-	shallow = true
-	registered = true
-[submodule "nanonext"]
-	path = nanonext
-	url = https://github.com/shikokuchuo/nanonext
 	shallow = true
 	registered = true
