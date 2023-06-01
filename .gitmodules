@@ -13,6 +13,11 @@
 	url = https://github.com/shikokuchuo/mirai
 	shallow = true
 	registered = true
+[submodule "mirai.promises"]
+	path = mirai.promises
+	url = https://github.com/shikokuchuo/mirai.promises
+	shallow = true
+	registered = true
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
