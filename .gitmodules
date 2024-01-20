@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/shikokuchuo/shikokuchuo.r-universe.dev
 	branch = HEAD
 [submodule "ichimoku"]
 	path = ichimoku
@@ -14,3 +14,6 @@
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
+[submodule "secretbase"]
+	path = secretbase
+	url = https://github.com/shikokuchuo/secretbase
