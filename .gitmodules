@@ -5,20 +5,20 @@
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
-	branch = *release
+	branch = v1.5.0
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
-	branch = *release
+	branch = v0.12.1
 [submodule "mirai.promises"]
 	path = mirai.promises
 	url = https://github.com/shikokuchuo/mirai.promises
-	branch = *release
+	branch = v0.4.1
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
-	branch = *release
+	branch = v0.13.0
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
-	branch = *release
+	branch = v0.3.0
