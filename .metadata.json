@@ -1,0 +1,22 @@
+[
+  {
+    "package": "ichimoku",
+    "releasetag": true
+  },
+  {
+    "package": "nanonext",
+    "releasetag": true
+  },
+  {
+    "package": "mirai",
+    "releasetag": true
+  },
+  {
+    "package": "mirai.promises",
+    "releasetag": true
+  },
+  {
+    "package": "secretbase",
+    "releasetag": true
+  }
+]
