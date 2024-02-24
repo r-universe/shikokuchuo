@@ -18,6 +18,9 @@
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
 	branch = v0.13.2
+[submodule "nanonext.dev"]
+	path = nanonext.dev
+	url = https://github.com/shikokuchuo/nanonext
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
