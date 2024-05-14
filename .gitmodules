@@ -8,9 +8,6 @@
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
-[submodule "mirai.promises"]
-	path = mirai.promises
-	url = https://github.com/shikokuchuo/mirai.promises
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
