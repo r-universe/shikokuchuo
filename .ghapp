@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["ichimoku", "nanonext", "mirai", "secretbase", "shikokuchuo.r-universe.dev", "fireworks"]
+  "repositories": ["ichimoku", "nanonext", "mirai", "secretbase", "shikokuchuo.r-universe.dev"]
 }
