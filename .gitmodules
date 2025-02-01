@@ -20,3 +20,6 @@
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
+[submodule "watcher"]
+	path = watcher
+	url = https://github.com/shikokuchuo/watcher
