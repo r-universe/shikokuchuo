@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/shikokuchuo/shikokuchuo.r-universe.dev
 	branch = HEAD
-[submodule "fireworks"]
-	path = fireworks
-	url = https://github.com/shikokuchuo/fireworks
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
