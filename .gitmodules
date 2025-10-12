@@ -5,9 +5,6 @@
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
-[submodule "sakura"]
-	path = sakura
-	url = https://github.com/shikokuchuo/sakura
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
