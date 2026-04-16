@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/shikokuchuo/shikokuchuo.r-universe.dev
 	branch = HEAD
-[submodule "automerge"]
-	path = automerge
-	url = https://github.com/shikokuchuo/automerge-r
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
+[submodule "sora"]
+	path = sora
+	url = https://github.com/shikokuchuo/sora
